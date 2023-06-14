@@ -30,7 +30,7 @@ I was in charge of the *mechanical department* of the Club
 
 ![7](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/7.jpg)
 
-![8](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/%20progress/8.jpg)
+![8](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/8.jpg)
 
 ![9](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/9.jpg)
 
