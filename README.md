@@ -15,7 +15,7 @@ I was in charge of the *mechanical department* of the Club
 
 
 ## Base
-![1](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/word%20progress/1.jpg)
+![1](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/1.jpg)
 
 ![2](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/2.jpg)
 
@@ -24,7 +24,7 @@ I was in charge of the *mechanical department* of the Club
 
 ![4](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/4.jpg)
 
-![5](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress5.jpg)
+![5](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/5.jpg)
 
 ![6](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/6.jpg)
 
