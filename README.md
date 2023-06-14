@@ -15,22 +15,22 @@ I was in charge of the *mechanical department* of the Club
 
 
 ## Base
-![1](https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/1.jpg)
+![1](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/word%20progress/1.jpg)
 
-![2](https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/2.jpg)
+![2](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/2.jpg)
 
 ## 3d Print
 
 
-![4](https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/4.jpg)
+![4](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/4.jpg)
 
-![5](https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/5.jpg)
+![5](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress5.jpg)
 
-![6](https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/6.jpg)
+![6](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/6.jpg)
 
-![7](https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/7.jpg)
+![7](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/7.jpg)
 
-![8](https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/8.jpg)
+![8](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/%20progress/8.jpg)
 
-![9](https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/9.jpg)
+![9](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/9.jpg)
 
