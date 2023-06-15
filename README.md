@@ -24,17 +24,23 @@ https://github.com/subhashishansda4/AUV-UUV/assets/84849423/62f3f5e5-9bd9-428f-9
 ## 3d Print
 https://github.com/subhashishansda4/AUV-UUV/assets/84849423/6522a383-10c9-4454-af4f-b4f413e2b855
 
-![4](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/4.jpg)
+<p align="center">
+  <img alt="4" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/4.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="5" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/5.jpg" width="45%">
+</p>
 
-![5](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/5.jpg)
+<p align="center">
+  <img alt="6" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/6.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="7" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/7.jpg" width="45%">
+</p>
 
-![6](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/6.jpg)
-
-![7](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/7.jpg)
-
-![8](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/8.jpg)
-
-![9](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/9.jpg)
+<p align="center">
+  <img alt="8" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/8.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="9" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/9.jpg" width="45%">
+</p>
 
 ## PID Tuning & Kill Switch
 
