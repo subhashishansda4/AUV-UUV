@@ -2,6 +2,8 @@
 Built an **Autonomous Underwater Vehicle** for the *SAUVC* competition\
 I was in charge of the *mechanical department* of the Club
 
+https://github.com/subhashishansda4/AUV-UUV/assets/84849423/0fd6556c-43b4-4335-9086-55427e5924df
+
 ## Renders
 ![front](https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/front.jpg)
 
