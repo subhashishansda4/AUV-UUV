@@ -44,10 +44,18 @@ https://github.com/subhashishansda4/AUV-UUV/assets/84849423/6522a383-10c9-4454-a
 
 ## Work in Progress Clips
 <p align="center">
-  <img alt="4" src="https://github.com/subhashishansda4/AUV-UUV/assets/84849423/70b80387-bdd0-4fc5-a41f-65e61f89231f" width="45%">
+  <video width="45%" controls>
+    <source src="https://github.com/subhashishansda4/AUV-UUV/assets/84849423/70b80387-bdd0-4fc5-a41f-65e61f89231f" type="video/mp4">
+  </video>
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="5" src="https://github.com/subhashishansda4/AUV-UUV/assets/84849423/10ec17a7-b150-4bd5-87af-674583041794" width="45%">
+  <video width="45%" controls>
+    <source src="https://github.com/subhashishansda4/AUV-UUV/assets/84849423/10ec17a7-b150-4bd5-87af-674583041794" type="video/mp4">
+  </video>
 </p>
+
+<video width="45%" controls>
+  <source src="https://github.com/subhashishansda4/AUV-UUV/assets/84849423/10ec17a7-b150-4bd5-87af-674583041794" type="video/mp4">
+</video>
 
 https://github.com/subhashishansda4/AUV-UUV/assets/84849423/502e0488-6f94-499a-9b04-94b4bdb272f4
 
