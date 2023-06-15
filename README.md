@@ -42,7 +42,14 @@ https://github.com/subhashishansda4/AUV-UUV/assets/84849423/6522a383-10c9-4454-a
   <img alt="9" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/9.jpg" width="45%">
 </p>
 
-## PID Tuning & Kill Switch
+## Work in Progress Clips
+https://github.com/subhashishansda4/AUV-UUV/assets/84849423/10ec17a7-b150-4bd5-87af-674583041794
 
-## Working
+https://github.com/subhashishansda4/AUV-UUV/assets/84849423/70b80387-bdd0-4fc5-a41f-65e61f89231f
+
 https://github.com/subhashishansda4/AUV-UUV/assets/84849423/502e0488-6f94-499a-9b04-94b4bdb272f4
+
+## Final Output
+
+
+## Random Shots
