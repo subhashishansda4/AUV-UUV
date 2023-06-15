@@ -53,3 +53,23 @@ https://github.com/subhashishansda4/AUV-UUV/assets/84849423/70b80387-bdd0-4fc5-a
 https://github.com/subhashishansda4/AUV-UUV/assets/84849423/4bf0ce26-9d61-4a66-b6db-62541faa5d19
 
 ## Random Shots
+<p align="center">
+  <img alt="4" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/final/4.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="5" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/final/5.jpg" width="45%">
+</p>
+
+![6](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/final/6.jpg)
+
+<p align="center">
+  <img alt="1" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/final/1.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="2" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/final/2.jpg" width="45%">
+</p>
+
+<p align="center">
+  <img alt="8" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/final/8.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="9" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/final/9.jpg" width="45%">
+</p>
+
