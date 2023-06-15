@@ -72,4 +72,3 @@ https://github.com/subhashishansda4/AUV-UUV/assets/84849423/4bf0ce26-9d61-4a66-b
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="9" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/final/9.jpg" width="45%">
 </p>
-
