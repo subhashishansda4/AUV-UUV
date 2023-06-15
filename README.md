@@ -3,18 +3,6 @@ Built an **Autonomous Underwater Vehicle** for the *SAUVC* competition\
 I was in charge of the *mechanical department* of the Club
 
 ## Renders
-<p align="center">
-  <img alt="Light" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/front.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/side.jpg" width="45%">
-</p>
-
-<p align="center">
-  <img alt="Light2" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/gripper.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark2" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/ortho.jpg" width="45%">
-</p>
-
 ![front](https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/front.jpg)
 
 ![side](https://github.com/subhashishansda4/AUV-UUV/blob/main/renders/side.jpg)
@@ -27,10 +15,11 @@ I was in charge of the *mechanical department* of the Club
 https://github.com/subhashishansda4/AUV-UUV/assets/84849423/62f3f5e5-9bd9-428f-97f7-0245bcd4d337
 
 ## Base
-
-![1](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/1.jpg)
-
-![2](https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/2.jpg)
+<p align="center">
+  <img alt="1" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/1.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="2" src="https://github.com/subhashishansda4/AUV-UUV/blob/main/photos/work%20progress/2.jpg" width="45%">
+</p>
 
 ## 3d Print
 https://github.com/subhashishansda4/AUV-UUV/assets/84849423/6522a383-10c9-4454-af4f-b4f413e2b855
